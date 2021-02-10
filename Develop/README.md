@@ -1,0 +1,1 @@
+This code has been cleaned up to meet a certain set of standards and to implement new technology. The webpage is more accessible for businesse purposes.
